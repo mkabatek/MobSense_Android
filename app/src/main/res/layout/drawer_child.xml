@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:id="@+id/drawer_child_listview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentStart="false"
+        android:dividerHeight="1dp"
+        >
+
+
+    </ListView>
+
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_lamp_margin">16dp</dimen>
+    <dimen name="button_size">250dp</dimen>
+    <dimen name="waveform_size">250dp</dimen>
+</resources>

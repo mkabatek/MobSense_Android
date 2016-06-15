@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- New Colors for Theme Chooser to be compatible -->
+    <color name="blackness">#FF000000</color>
+    <color name="divider_color">#00555555</color>
+    <color name="text_about">#FFff8080</color>
+    <color name="text_color">#FFFFFFFF</color>
+    <color name="text_warn">#FFff0000</color>
+    <color name="bg_color">#ffd64135</color>
+    <color name="actionbar_background">#00ffffff</color>
+</resources>
