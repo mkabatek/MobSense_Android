@@ -1,5 +1,8 @@
 # MobSense_Android
 
+* [Android Demo App](https://play.google.com/store/apps/details?id=com.streamn.mobilesense)
+*[mobsense.net web server](https://mobsense.net)
+
 ####Known Issues:  v0.0.1
 * No tutorial implemented 
 * No notification on succesful authentication
