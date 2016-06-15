@@ -1,7 +1,7 @@
 # MobSense_Android
 
 * [Android Demo App](https://play.google.com/store/apps/details?id=com.streamn.mobilesense)
-*[mobsense.net web server](https://mobsense.net)
+* [mobsense.net](https://mobsense.net)
 
 ####Known Issues:  v0.0.1
 * No tutorial implemented 
@@ -31,3 +31,7 @@
 * Build and run in Android studio
 * You must populate your Facebook, Twitter, and Google API key/secret
 
+####Related Projects
+
+* [MobSense_iOS](https://github.com/mkabatek/MobSense_iOS)
+* [mobsense.net](https://github.com/mkabatek/mobsense.net)
